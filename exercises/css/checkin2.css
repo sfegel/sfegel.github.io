@@ -1,0 +1,37 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: #DEBAA0;
+    color: #755443;
+    line-height: 150%;
+}
+h1 {
+    color: #C1F1FF;
+    background-color: #950A04;
+    padding: .5rem;
+    text-transform: lowercase;
+    font-family: "Give You Glory", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2.5rem;
+    line-height: normal;
+}
+hr{
+    height: 2px;
+    background-color: #1A3785;
+    border: 0;
+}
+img {
+    float: right;
+    border: 3px #ffffff00 solid;
+    margin: 1rem;
+    max-width: 50%;
+}
+a:link {
+    color: #DC2612;
+    text-decoration:none ;}
+a:visited {
+    color: #1A4B8A}
+a:hover {
+    color: #D2DEA0}
+a:active {
+    color: #A0BBDE;}
