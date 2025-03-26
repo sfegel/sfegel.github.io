@@ -1,0 +1,19 @@
+@media only screen and (orientation: portrait) {
+    
+li {
+    display: inline-block;
+    border: 2px solid black; 
+    margin: 8px;
+    margin-top: 10px;
+    padding: 2rem;
+}
+}
+@media only screen and (orientation: portrait) {
+
+li{
+    display: inline-block;
+    border: 2px solid rgb(220, 25, 25); 
+    margin: 8px;
+    margin-top: 10px;
+    padding: 2rem;}
+}
